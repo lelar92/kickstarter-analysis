@@ -1,5 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 
+## Overview of Project
+
 ### Purpose 
 Analysis on Kickstarter campaign data to uncover trends
 
