@@ -29,7 +29,7 @@ Using the same data about Kickstarter campaigns as above I extracted data showin
   - The data shows that campaigns with goals under $5000 had the highest rate of success.
 
 - What are some limitations of this dataset?
-  - Honestly, I'm not sure how to answer this question.
+  - Honestly, I'm not sure how to answer this question, but it might be beneficial to limit data to a specific geographic location versus worldwide.
 
 - What are some other possible tables and/or graphs that we could create?
-  - A box and whiskers plot would help to show the distribution of goals and total amounts pledged for plays in the US. This would expose any outliers which may skew the data.
+  - A box and whiskers plot would help to show the distribution of goals and total amounts pledged for plays. This would expose any outliers which may skew the data.
