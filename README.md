@@ -16,9 +16,9 @@ The only challenge was that it was necessary to extract the year from the date t
 Using the same data about Kickstarter campaigns as above I extracted data showing the number of successful, failed, and canceled Kickstarter campaigns for plays based on a dollar range set for their goal. This was accomplished using the =COUNTIFS function in Excel and filtering for each dollar range and the outcome. I then used the data to create the following line graph to display the information.
 ![image](https://github.com/lelar92/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
-## Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered
 
-### Results
+## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
   - Based on the data it appears that campaigns launched in May and June are more successful at reaching their goal. 
