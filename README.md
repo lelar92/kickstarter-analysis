@@ -22,7 +22,7 @@ Using the same data about Kickstarter campaigns as above I extracted data showin
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
- - Based on the data it appears that campaigns launched in May and June are more successful at reaching their goal. The data also shows that campaigns launched in June and July had roughly an equal number of failed campaigns.
+  - Based on the data it appears that campaigns launched in May and June are more successful at reaching their goal. The data also shows that campaigns launched in June and July had roughly an equal number of failed campaigns.
 
 - What can you conclude about the Outcomes based on Goals?
 The data shows that campaigns with goals under $5000 had the highest rate of success.
