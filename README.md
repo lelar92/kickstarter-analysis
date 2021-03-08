@@ -5,8 +5,6 @@
 ### Purpose 
 The purpose of this project is to look at different Kickstarter campaign outcomes for plays in relation to their launch dates and their funding goals to determine trends.
 
-## Analysis and Challenges
-
 
 ### Analysis of Outcomes Based on Launch Date
 Using the data about Kickstarter campaigns I created a pivot chart and added filters for the parent category theater, and chose plays as the sub-category. I also added a filter for years since we want to analyze the data by month of the year. I removed the column for live campaigns since that information isn't relevant. Using the information in the pivot chart I created the following graph.
